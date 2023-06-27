@@ -1,4 +1,4 @@
-name = "Enclave Retexture";
+name = "Enclave Retexture [WIP]";
 picture = "";
 hidePicture = "true";
 hideName = "false";
